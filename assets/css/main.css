@@ -28,6 +28,7 @@ del,
 dfn,
 em,
 img,
+video,
 ins,
 kbd,
 q,
@@ -476,7 +477,7 @@ select option {
   background: rgb(21, 21, 21);
 }
 
-select:focus::-ms-value {
+select:focus {
   background-color: transparent;
 }
 
@@ -640,7 +641,8 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image img {
+.image img,
+.image video {
   border-radius: 4px;
   display: block;
 }
@@ -651,7 +653,9 @@ input[type="radio"] + label:before {
 }
 
 .image.left img,
-.image.right img {
+.image.left video,
+.image.right img,
+.image.right video {
   width: 100%;
 }
 
@@ -673,7 +677,8 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.fit img {
+.image.fit img,
+.image.fit video {
   width: 100%;
 }
 
@@ -683,7 +688,8 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.main img {
+.image.main img,
+.image.main video {
   width: 100%;
 }
 
@@ -1032,7 +1038,7 @@ button {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 45%;
+  opacity: 60%;
   z-index: 1;
 }
 
@@ -1121,6 +1127,10 @@ body.is-preload #bg:before {
   margin-bottom: 0;
 }
 
+#header .content .inner a:hover {
+  animation: glow 2.5s ease-in-out infinite alternate;
+}
+
 #header .content p {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
@@ -1156,10 +1166,6 @@ body.is-preload #bg:before {
   letter-spacing: 0.2rem;
   font-size: 0.8rem;
   border-bottom: 0;
-}
-
-#header nav ul li a:hover {
-  background-color: rgb(60, 60, 60);
 }
 
 #header nav ul li a:active {
@@ -1420,18 +1426,7 @@ input[type="radio"] + label:before {
   opacity: 2.5s ease-in-out;
   transition: transform 2.5s ease-in-out, filter 0.25s ease-in-out,
     opacity 2.5s ease-in-out;
-  background-image: -moz-radial-gradient(
-    rgba(0, 0, 0, 0.25) 25%,
-    rgba(0, 0, 0, 0) 55%
-  );
-  background-image: -webkit-radial-gradient(
-    rgba(0, 0, 0, 0.25) 25%,
-    rgba(0, 0, 0, 0) 55%
-  );
-  background-image: -ms-radial-gradient(
-    rgba(0, 0, 0, 0.25) 25%,
-    rgba(0, 0, 0, 0) 55%
-  );
+
   background-image: radial-gradient(
     rgba(0, 0, 0, 0.25) 25%,
     rgba(0, 0, 0, 0) 55%
@@ -1452,6 +1447,23 @@ input[type="radio"] + label:before {
   padding: 3rem 2rem;
   max-height: 40rem;
   overflow: hidden;
+}
+
+#header nav ul li a:hover {
+  animation: glow 2.5s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  100% {
+    /* Larger blur radius */
+    text-shadow: 0 0 4px #fff, 0 0 11px #fff, 0 0 19px #fff, 0 0 40px #3c96f1,
+      0 0 80px #3c96f1, 0 0 90px #3c96f1, 0 0 100px #3c96f1, 0 0 150px #3c96f1;
+  }
+  0% {
+    /* Smaller blur radius */
+    text-shadow: 0 0 2px #60a5f6, 0 0 4px #60a5f6, 0 0 6px #60a5f6,
+      0 0 10px #fff, 0 0 45px #fff, 0 0 55px #fff, 0 0 70px #fff, 0 0 80px #fff;
+  }
 }
 
 #main article {
