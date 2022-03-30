@@ -64,9 +64,7 @@ The technologies I used were:
 
 <article id="webdev">
 
-## Web Development training
-
-### Followed Courses:
+## Followed Courses:
 
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -106,23 +104,6 @@ Lastly, I'll add that I am eager to learn new technologies, acquire new competen
 <article id="contact">
 
 ## Contact
-
-<form method="post" action="#">
-
-<div class="fields">
-
-<div class="field half"><label for="name">Name</label> <input type="text" name="name" id="name"></div>
-
-<div class="field half"><label for="email">Email</label> <input type="text" name="email" id="email"></div>
-
-<div class="field"><label for="message">Message</label><textarea name="message" id="message" rows="4"></textarea></div>
-
-</div>
-
-- <input type="submit" value="Send Message" class="primary">
-- <input type="reset" value="Reset">
-
-</form>
 
 - [<span class="label">Facebook</span>](https://www.facebook.com/fabiencampana/)
 - [<span class="label">Linkedin</span>](https://www.linkedin.com/in/fabien-campana-a01652220)
