@@ -4,12 +4,46 @@
 
 <div class="content">
 
-<div class="inner">
+<div class="inner scroll">
 
-# Portfolio
+# Curriculum vitae
 
-A fully responsive portfolio designed by [Fabien Campana](https://github.com/Kobol909/kobol909/blob/81bc7e3ecc4929d48d52f51a7fed65f067d0b885/README.md)  
-which showcase my previous works and resume.
+## Education
+
+### Kedge Business School | 2007 - 2012
+
+## Professional experiences
+
+### Booking agent | 2012 - 2013
+
+<div>Managing director assistant, in charge of the tour management for several international artists  
+(Avicii, Benny Benassi, Antoine Clamaran...)</div>
+
+### Electronic music producer / composer & DJ | 2013 - 2020
+
+### Craftsman for The Fernande | 2017 - 2020
+
+<div>
+
+#### Missions:
+
+<span>• Set up an art workshop.</span>  
+<span>• Designing “infinite” art frame 3D models.</span>  
+<span>• Producing 3D prints, programming and interfacing CNC machines.</span></div>
+
+### Independent Entrepreneur FCJH | since 2020
+
+<div>
+
+#### Missions:
+
+<span>• Market analysis.</span>  
+<span>• Design and launch of thefernande.com and kobol-music.com.</span>  
+<span>• SEO optimization.</span>  
+<span>• Ad campaigns management with Meta business suite and AdWords.</span>  
+<span>• Community management.</span></div>
+
+<div class="pdf">[Download as a PDF](https://koboldl.s3.eu-west-3.amazonaws.com/Portfolio-Assets/Curriculum+vitae+-+Fabien+Campana.pdf)</div>
 
 </div>
 
@@ -54,13 +88,13 @@ At the dawn of the pandemic, my wife and I engaged in the journey of creating an
 
 ### To:
 
-<span class="image main"></span>
+<iframe width="760" height="480" src="https://staging-kobolmusic.kinsta.cloud/" frameborder="0"></iframe>
 
 Slowly but surely my focus shifted towards how I could develop a better version of our websites. So I made the decision to fully commit to learning how to code.  
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
 The technologies I used were:
 
-- The great [Roots.io](https://roots.io/) stack._ PHP._ Laravel Blade.\* Tailwind CSS.</article>
+- The great [Roots.io](https://roots.io/) stack._ PHP 7.4 & 8.0._ Laravel Blade._ Alpine JS._ Tailwind CSS._ Kinsta._ AWS S3.</article>
 
 <article id="webdev">
 
@@ -95,7 +129,7 @@ The technologies I used were:
 
 <span class="image main">![](images/Cube3.png)</span>
 
-I have a profound love for Arts and technologies; over the years I have learned to use software Photoshop, Premiere, Illustrator, Audition, Ableton Live, Logic Pro, Blender 3D, Fusion 360 and the Office Pack . I also learned how to design and 3D print, and how to program and control CNC machines to produce prototypes.  
+I have a profound love for Arts and technologies; over the years I have learned to use softwares like Photoshop, Premiere, Illustrator, Audition, Ableton Live, Logic Pro, Blender 3D, Fusion 360 and the Office Pack . I also learned how to design and 3D print parts, and how to program and control CNC machines to produce prototypes and working products.  
 I have a passion for synthesizers and especially modular ones. This passion also brought me to my first encounter of programming languages - I then learned how to modify the Python script on my midi controllers - it also made me understand OOP programming quite easily later.  
 Lastly, I'll add that I am eager to learn new technologies, acquire new competencies and meet new inspiring people.
 
@@ -105,9 +139,26 @@ Lastly, I'll add that I am eager to learn new technologies, acquire new competen
 
 ## Contact
 
+<form method="post" action="#">
+
+<div class="fields">
+
+<div class="field half"><label for="name">Name</label> <input type="text" name="name" id="name"></div>
+
+<div class="field half"><label for="email">Email</label> <input type="text" name="email" id="email"></div>
+
+<div class="field"><label for="message">Message</label><textarea name="message" id="message" rows="4"></textarea></div>
+
+</div>
+
+- <input type="submit" value="Send Message" class="primary">
+- <input type="reset" value="Reset">
+
+</form>
+
 - [<span class="label">Facebook</span>](https://www.facebook.com/fabiencampana/)
 - [<span class="label">Linkedin</span>](https://www.linkedin.com/in/fabien-campana-a01652220)
-- [<span class="label">GitHub</span>](https://kobol909.github.io/)
+- [<span class="label">GitHub</span>](https://github.com/Kobol909/)
 
 </article>
 
@@ -115,7 +166,7 @@ Lastly, I'll add that I am eager to learn new technologies, acquire new competen
 
 <footer id="footer">
 
-© 2022 Portfolio designed by: [Fabien Campana](https://kobol909.github.io/).
+© 2022 Portfolio designed by: [Fabien Campana](https://github.com/Kobol909/).
 
 </footer>
 
