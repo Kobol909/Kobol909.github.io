@@ -1,10 +1,4 @@
-<div id="wrapper">
-
-<header id="header">
-
-<div class="content">
-
-<div class="inner scroll">
+Fabien Campana Portfolio
 
 # Curriculum vitae
 
@@ -16,40 +10,30 @@
 
 ### Booking agent | 2012 - 2013
 
-<div>Managing director assistant, in charge of the tour management for several international artists  
-(Avicii, Benny Benassi, Antoine Clamaran...)</div>
+Managing director assistant, in charge of the tour management for several international artists  
+(Avicii, Benny Benassi, Antoine Clamaran...)
 
 ### Electronic music producer / composer & DJ | 2013 - 2020
 
 ### Craftsman for The Fernande | 2017 - 2020
 
-<div>
+#### Missions:
 
-#### Missions
-
-<span>• Set up an art workshop.</span>  
-<span>• Designing “infinite” art frame 3D models.</span>  
-<span>• Producing 3D prints, programming and interfacing CNC machines.</span></div>
+• Set up an art workshop.  
+• Designing “infinite” art frame 3D models.  
+• Producing 3D prints, programming and interfacing CNC machines.
 
 ### Independent Entrepreneur FCJH | since 2020
 
-<div>
+#### Missions:
 
-#### Missions
+• Market analysis.  
+• Design and launch of thefernande.com and kobol-music.com.  
+• SEO optimization.  
+• Ad campaigns management with Meta business suite and AdWords.  
+• Community management.
 
-<span>• Market analysis.</span>  
-<span>• Design and launch of thefernande.com and kobol-music.com.</span>  
-<span>• SEO optimization.</span>  
-<span>• Ad campaigns management with Meta business suite and AdWords.</span>  
-<span>• Community management.</span></div>
-
-<div class="pdf">[Download as a PDF](https://koboldl.s3.eu-west-3.amazonaws.com/Portfolio-Assets/Curriculum+vitae+-+Fabien+Campana.pdf)</div>
-
-</div>
-
-</div>
-
-<nav>
+[Download as a PDF](https://koboldl.s3.eu-west-3.amazonaws.com/Portfolio-Assets/Curriculum+vitae+-+Fabien+Campana.pdf)
 
 - [Bio](#bio)
 - [Work](#work)
@@ -57,48 +41,38 @@
 - [About](#about)
 - [Contact](#contact)
 
-</nav>
-
-</header>
-
-<div id="main">
-
-<article id="bio">
-
 ## Bio
 
-<span class="image main">![](images/Cannyonlands2.png)</span>
+![](images/Cannyonlands2.png)
 
 My name is Fabien, around here I go by Kobol.  
 I am a web developer and tech enthusiast. I currently reside in rainy Paris with my lovely wife.  
 My academic education is in Business Management, I studied both in Marseille and abroad - London, Waterloo - Ontario. I have spent my early working years as an electronic music producer (I always enjoy having a conversation about that, so feel free to hit me up) then and I created two e-commerces with my wife, before becoming a web developer. All these experiences account for a large part in what I do, how I do it and who I am in general.  
 Aside from the glow of my computer screen, I love soccer, Formula 1 and Mixed Martial Arts. I love listening to audio-books for the last couple of years, and I went through the whole Isaac Asimov Foundation series, Yuval Noah Harari collection, Stephen Hawkins and I just finished the fabulous Bad Blood by John Carreyrou. Lastly, I like beer and coffee.
 
-</article>
-
-<article id="work">
-
 ## Work
 
-<span class="image main">![](images/ShopifyUI.png)</span>
+![](images/ShopifyUI.png)
 
-### From
+### From...
 
 At the dawn of the pandemic, my wife and I engaged in the journey of creating an e-commerce. Since I did not know how to write code back then, I decided to use Shopify. It was not the most original design for sure, but it worked well! I learned a lot about SEO and advertising with AdWords or Facebook.
 
-### To
-
-<iframe width="760" height="480" src="https://staging-kobolmusic.kinsta.cloud/" frameborder="0"></iframe>
+### To:
 
 Slowly but surely my focus shifted towards how I could develop a better version of our websites. So I made the decision to fully commit to learning how to code.  
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
 The technologies I used were:
 
-- The great [Roots.io](https://roots.io/) stack._PHP 7.4 & 8.0._ Laravel Blade._Alpine JS._ Tailwind CSS._Kinsta._ AWS S3.</article>
+- The great [Roots.io](https://roots.io/) stack.
+- PHP 7.4 & 8.0.
+- Laravel Blade.
+- Alpine JS.
+- Tailwind CSS.
+- Kinsta.
+- AWS S3.
 
-<article id="webdev">
-
-## Followed Courses
+## Followed Courses:
 
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -114,60 +88,34 @@ The technologies I used were:
 - [Complete Agile Scrum Management + Kanban + 4 EXTRA courses](https://www.udemy.com/course/agile-management-scrum-complete/)
 - [API and Web Service](https://www.udemy.com/course/api-and-web-service-introduction/)
 
-### Future courses
+### Future courses:
 
 - [Ultimate AWS Certified Developer Associate 2022 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 - [Practice Exams | AWS Certified Developer Associate 2022](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
 - [Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
-</article>
-
-<article id="about">
-
 ## About
 
-<span class="image main">![](images/Cube3.png)</span>
+![](images/Cube3.png)
 
 I have a profound love for Arts and technologies; over the years I have learned to use softwares like Photoshop, Premiere, Illustrator, Audition, Ableton Live, Logic Pro, Blender 3D, Fusion 360 and the Office Pack . I also learned how to design and 3D print parts, and how to program and control CNC machines to produce prototypes and working products.  
 I have a passion for synthesizers and especially modular ones. This passion also brought me to my first encounter of programming languages - I then learned how to modify the Python script on my midi controllers - it also made me understand OOP programming quite easily later.  
 Lastly, I'll add that I am eager to learn new technologies, acquire new competencies and meet new inspiring people.
 
-</article>
-
-<article id="contact">
-
 ## Contact
 
-<form method="post" action="#">
+Name
 
-<div class="fields">
+Email
 
-<div class="field half"><label for="name">Name</label> <input type="text" name="name" id="name"></div>
+Message
 
-<div class="field half"><label for="email">Email</label> <input type="text" name="email" id="email"></div>
+-
+-
 
-<div class="field"><label for="message">Message</label><textarea name="message" id="message" rows="4"></textarea></div>
-
-</div>
-
-- <input type="submit" value="Send Message" class="primary">
-- <input type="reset" value="Reset">
-
-</form>
-
-- [<span class="label">Facebook</span>](https://www.facebook.com/fabiencampana/)
-- [<span class="label">Linkedin</span>](https://www.linkedin.com/in/fabien-campana-a01652220)
-- [<span class="label">GitHub</span>](https://github.com/Kobol909/)
-
-</article>
-
-</div>
-
-<footer id="footer">
+- [Facebook](https://www.facebook.com/fabiencampana/)
+- [Linkedin](https://www.linkedin.com/in/fabien-campana-a01652220)
+- [GitHub](https://github.com/Kobol909/)
 
 © 2022 Portfolio designed by: [Fabien Campana](https://github.com/Kobol909/).
-
-</footer>
-
-</div>
