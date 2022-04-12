@@ -619,6 +619,13 @@ input[type="radio"] + label:before {
 
 /* Image */
 
+iframe {
+  border-radius: 4px;
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
+
 .image {
   border-radius: 4px;
   border: 0;
@@ -1059,9 +1066,9 @@ body.is-preload #bg:before {
   align-items: center;
   justify-content: space-between;
   position: relative;
-  min-height: 100vh;
+  height: screen;
   width: 100%;
-  padding: 4rem 2rem;
+  padding: 2rem 4rem;
   z-index: 3;
 }
 
@@ -1108,9 +1115,9 @@ body.is-preload #bg:before {
 }
 
 #header .logo {
-  width: 10rem;
-  height: 10rem;
-  line-height: 10rem;
+  width: 8rem;
+  height: 8rem;
+  line-height: 8rem;
   border: solid 1px #ffffff;
   border-radius: 100%;
 }
@@ -1136,6 +1143,44 @@ body.is-preload #bg:before {
   letter-spacing: 0.2rem;
   font-size: 0.8rem;
   line-height: 2;
+}
+
+#header .content h2 {
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  letter-spacing: 0.4rem;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+#header .content h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1.25rem;
+  line-height: 2;
+}
+
+#header .content div {
+  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+#header .pdf {
+  margin-top: 3.5rem;
+  letter-spacing: 0.1rem;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+#header .content .inner.scroll {
+  width: 100%;
+  height: 450px;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 #header nav ul {
