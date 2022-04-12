@@ -25,7 +25,7 @@
 
 <div>
 
-#### Missions:
+#### Missions
 
 <span>• Set up an art workshop.</span>  
 <span>• Designing “infinite” art frame 3D models.</span>  
@@ -35,7 +35,7 @@
 
 <div>
 
-#### Missions:
+#### Missions
 
 <span>• Market analysis.</span>  
 <span>• Design and launch of thefernande.com and kobol-music.com.</span>  
@@ -82,11 +82,11 @@ Aside from the glow of my computer screen, I love soccer, Formula 1 and Mixed Ma
 
 <span class="image main">![](images/ShopifyUI.png)</span>
 
-### From...
+### From
 
 At the dawn of the pandemic, my wife and I engaged in the journey of creating an e-commerce. Since I did not know how to write code back then, I decided to use Shopify. It was not the most original design for sure, but it worked well! I learned a lot about SEO and advertising with AdWords or Facebook.
 
-### To:
+### To
 
 <iframe width="760" height="480" src="https://staging-kobolmusic.kinsta.cloud/" frameborder="0"></iframe>
 
@@ -94,11 +94,11 @@ Slowly but surely my focus shifted towards how I could develop a better version 
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
 The technologies I used were:
 
-- The great [Roots.io](https://roots.io/) stack._ PHP 7.4 & 8.0._ Laravel Blade._ Alpine JS._ Tailwind CSS._ Kinsta._ AWS S3.</article>
+- The great [Roots.io](https://roots.io/) stack._PHP 7.4 & 8.0._ Laravel Blade._Alpine JS._ Tailwind CSS._Kinsta._ AWS S3.</article>
 
 <article id="webdev">
 
-## Followed Courses:
+## Followed Courses
 
 - [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
@@ -114,7 +114,7 @@ The technologies I used were:
 - [Complete Agile Scrum Management + Kanban + 4 EXTRA courses](https://www.udemy.com/course/agile-management-scrum-complete/)
 - [API and Web Service](https://www.udemy.com/course/api-and-web-service-introduction/)
 
-### Future courses:
+### Future courses
 
 - [Ultimate AWS Certified Developer Associate 2022 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 - [Practice Exams | AWS Certified Developer Associate 2022](https://www.udemy.com/course/aws-certified-developer-associate-practice-tests-dva-c01/)
