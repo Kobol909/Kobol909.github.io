@@ -60,6 +60,8 @@ At the dawn of the pandemic, my wife and I engaged in the journey of creating an
 
 ### To:
 
+<span class="image main"></span>
+
 Slowly but surely my focus shifted towards how I could develop a better version of our websites. So I made the decision to fully commit to learning how to code.  
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
 The technologies I used were:
@@ -104,15 +106,6 @@ I have a passion for synthesizers and especially modular ones. This passion also
 Lastly, I'll add that I am eager to learn new technologies, acquire new competencies and meet new inspiring people.
 
 ## Contact
-
-Name
-
-Email
-
-Message
-
--
--
 
 - [Facebook](https://www.facebook.com/fabiencampana/)
 - [Linkedin](https://www.linkedin.com/in/fabien-campana-a01652220)
