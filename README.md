@@ -60,7 +60,7 @@ At the dawn of the pandemic, my wife and I engaged in the journey of creating an
 
 ### To:
 
-<span class="image main"></span>
+[Kobol-Music Staging](https://staging-kobolmusic.kinsta.cloud/)
 
 Slowly but surely my focus shifted towards how I could develop a better version of our websites. So I made the decision to fully commit to learning how to code.  
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
