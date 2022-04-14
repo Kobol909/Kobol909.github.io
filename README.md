@@ -97,6 +97,13 @@ The technologies I used were:
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
 - [Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
+### Reading list:
+
+- <span>Clean Code - Robert C. Martin</span>
+- <span>The Clean Coder - Robert C. Martin</span>
+- <span>Code Complete - Steve McConnell</span>
+- <span>Head First: Design Patterns - Eric Freeman & Elizabeth Freeman</span>
+
 ## About
 
 ![](images/Cube3.png)
