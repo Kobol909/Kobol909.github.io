@@ -2,36 +2,66 @@ Fabien Campana Portfolio
 
 # Curriculum vitae
 
-## Education
-
-### Kedge Business School | 2007 - 2012
-
 ## Professional experiences
 
-### Booking agent | 2012 - 2013
+### \- Developer of e-commerce on Wordpress | _2022_
+
+#### Missions:
+
+• I developed a theme from scratch, using TailwindCSS, Alpine.js, and Laravel Blade  
+to design a fully responsive e-commerce.
+
+• I chose the Roots.io stack for this project as it provides a better folder structure while enhancing  
+security by limiting access to non-web files along with Bcrypt hashed passwords.
+
+### \- Developer of e-commerce on Shopify | _2020 - 2022_
+
+#### Missions:
+
+• I designed and set up one e-commerce selling audio samples mainly to desktop clients, then a  
+second one selling abstract art posters mainly to mobile clients.
+
+• I managed to get both websites scoring an average of 90+ with Google Lighthouse.
+
+• I was in charge of creating campaigns for Ad words and Meta - the average CTR went from  
+1.8% to 4.6% for Ad words and 0.5% to 2.2% for Meta ads.
+
+### \- Craftsman for The Fernande | _2017 - 2020_
+
+#### Missions:
+
+• I had the chance to conceive and set up an art workshop.
+
+• I designed 3D models in Blender to test our projects - we were creating “infinite” art frames.
+
+• My main role was to design 3D printed parts, I also programmed a CNC machine with Fusion 360.
+
+### \- Electronic music producer / composer & DJ | _2013 - 2020_
+
+### \- Booking agent | _2012 - 2013_
 
 Managing director assistant, in charge of the tour management for several international artists  
 (Avicii, Benny Benassi, Antoine Clamaran...)
 
-### Electronic music producer / composer & DJ | 2013 - 2020
+## Education
 
-### Craftsman for The Fernande | 2017 - 2020
+### \- Self-taught web developer program | Udemy | _Sept 2021 - Feb 2022_
 
-#### Missions:
+• I've enrolled in a dozen selected courses. My goal was to learn what was needed to be comfortable working  
+with both front-end and back-end development.
 
-• Set up an art workshop.  
-• Designing “infinite” art frame 3D models.  
-• Producing 3D prints, programming and interfacing CNC machines.
+• I've worked mostly with the MERN stack while creating different projects such as a food order web application,  
+a social network clone, and a blog. I created a few REST APIs using Express, Node.js, and MongoDB.
 
-### Independent Entrepreneur FCJH | since 2020
+• I've handled file validation and sanitization both on the client-side and on the server.
 
-#### Missions:
+• Lastly, I've managed user authentication and credential storage with passport.js and OAuth2 in conjunction with  
+Bcrypt or Argon2 for better security.
 
-• Market analysis.  
-• Design and launch of thefernande.com and kobol-music.com.  
-• SEO optimization.  
-• Ad campaigns management with Meta business suite and AdWords.  
-• Community management.
+• Had I had better hindsight on what I learned during this bootcamp, I'd have chosen to generate the back-end  
+of my website as well as I feel confident in being able to do so.
+
+### \- Kedge Business School | _2007 - 2012_
 
 [Download as a PDF](https://koboldl.s3.eu-west-3.amazonaws.com/Portfolio-Assets/Curriculum+vitae+-+Fabien+Campana.pdf)
 
@@ -59,8 +89,6 @@ Aside from the glow of my computer screen, I love soccer, Formula 1 and Mixed Ma
 At the dawn of the pandemic, my wife and I engaged in the journey of creating an e-commerce. Since I did not know how to write code back then, I decided to use Shopify. It was not the most original design for sure, but it worked well! I learned a lot about SEO and advertising with AdWords or Facebook.
 
 ### To:
-
-[Kobol-Music Staging](https://staging-kobolmusic.kinsta.cloud/)
 
 Slowly but surely my focus shifted towards how I could develop a better version of our websites. So I made the decision to fully commit to learning how to code.  
 At the end of my training, I was ready to make the transition from Shopify to the infamous Wordpress (mainly because of SEO issues) and I was able to develop a complete theme from the ground up.  
@@ -99,10 +127,10 @@ The technologies I used were:
 
 ### Reading list:
 
-- <span>Clean Code - Robert C. Martin</span>
-- <span>The Clean Coder - Robert C. Martin</span>
-- <span>Code Complete - Steve McConnell</span>
-- <span>Head First: Design Patterns - Eric Freeman & Elizabeth Freeman</span>
+- Clean Code - Robert C. Martin
+- The Clean Coder - Robert C. Martin
+- Code Complete - Steve McConnell
+- Head First: Design Patterns - Eric Freeman & Elizabeth Freeman
 
 ## About
 
