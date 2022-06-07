@@ -4,6 +4,22 @@ Fabien Campana Portfolio
 
 ## Professional experiences
 
+### \- Developer of an open-source e-commerce website | _2022_
+
+#### Missions:
+
+• The idea is to provide electronic music artists with an innovative solution to generate new revenue  
+streams by selling samples, music, merchandising or courses through their own store.
+
+• The goal was to design a simple solution implementing core e-commerce  
+functionalities with Node.js, React.js, Firebase, and Stripe.
+
+• The next milestone is to add unit, integration and end-to-end  
+tests to the project.
+
+• Lastly, Paypal support will be added and the project will be converted to  
+a progressive web application.
+
 ### \- Developer of e-commerce on Wordpress | _2022_
 
 #### Missions:
@@ -125,9 +141,14 @@ The technologies I used were:
 - [Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
 - [Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
+### Readings:
+
+- Clean Agile - Robert C. Martin
+- Clean Code - Robert C. Martin
+
 ### Reading list:
 
-- Clean Code - Robert C. Martin
+- Clean Architecture - Robert C. Martin
 - The Clean Coder - Robert C. Martin
 - Code Complete - Steve McConnell
 - Head First: Design Patterns - Eric Freeman & Elizabeth Freeman
@@ -145,5 +166,6 @@ Lastly, I'll add that I am eager to learn new technologies, acquire new competen
 - [Facebook](https://www.facebook.com/fabiencampana/)
 - [Linkedin](https://www.linkedin.com/in/fabien-campana-a01652220)
 - [GitHub](https://github.com/Kobol909/)
+- [Mail](mailto:campana.fabien@gmail.com)
 
 © 2022 Portfolio designed by: [Fabien Campana](https://github.com/Kobol909/).
